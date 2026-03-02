@@ -4,7 +4,7 @@ const HelloWorld = () => {
   return (
     <div>
       <h1>Hello, world!</h1>
-      <p>This is my first React component.</p>
+      <p>My name is Srihas and this is my first React component.</p>
     </div>
   );
 };
