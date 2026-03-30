@@ -13,7 +13,7 @@ const HelloWorld = () => {
       />
       <h2 className="text-3xl font-bold mt-4">Hi, I&apos;m Srihas 👋</h2>
       <p className="mt-2 text-gray-600 max-w-xl">
-        CS student at UIC, ACM AI Theory SIG Co-Lead, and aspiring backend developer.
+        CS student at UIC, upcoming ACM AI Theory SIG Co-Lead, and aspiring backend developer.
       </p>
     </section>
   );

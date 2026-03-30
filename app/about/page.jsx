@@ -12,7 +12,7 @@ const About = () => {
         learning backend systems, and creating content through video editing.
       </p>
 
-      <HelloWorld />
+      
     </div>
   );
 };
